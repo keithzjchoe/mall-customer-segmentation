@@ -8,7 +8,7 @@ An individual data science project applying unsupervised machine learning to seg
 
 Understanding customer behaviour is critical for targeted marketing. This project uses **K-Means clustering** to identify natural groupings within a mall's customer base, enabling data-driven insights into spending patterns across different demographic segments.
 
-The analysis covers the full data science pipeline — from data cleaning and preprocessing through to cluster evaluation, visualisation, and customer profiling.
+The analysis covers the full data science pipeline from data cleaning and preprocessing through to cluster evaluation, visualisation, and customer profiling.
 
 ---
 
@@ -43,8 +43,8 @@ Clustered on three key features:
 
 ### 3. Optimal K Selection
 Two methods were used to determine the best number of clusters:
-- **Elbow Method** — plotted inertia across k = 2 to 10
-- **Silhouette Score** — selected k with the highest score across the same range
+- **Elbow Method** : plotted inertia across k = 2 to 10
+- **Silhouette Score** : selected k with the highest score across the same range
 
 Both methods converged on **k = 5** as the optimal number of clusters.
 
@@ -100,5 +100,5 @@ Visualisations include:
 
 ## Acknowledgements
 
-Individual assignment — Taylor's University, Bachelor of Computer Science (Data Science minor).  
+Individual assignment : Taylor's University, Bachelor of Computer Science (Data Science minor).  
 Dataset sourced from Kaggle ([vjchoudhary7](https://www.kaggle.com/vjchoudhary7)).
