@@ -14,7 +14,7 @@ The analysis covers the full data science pipeline from data cleaning and prepro
 
 ## Dataset
 
-**Source:** [Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) — Kaggle
+**Source:** [Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) - Kaggle
 
 | Feature | Description |
 |---|---|
